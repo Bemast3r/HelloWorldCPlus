@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Log.h"
 /// <Hotkeys>
-/// Strg + F7 = Kompolieren
+/// Strg + F7 = Kompilieren
 /// <Notes>
 /// static --> nur für den File 
 /// <returns></returns>
@@ -14,9 +14,19 @@ int main()
 	a++;
 	const char* string = "Hello";
 
-	for (int i = 0; i < 5; i++) {
-		const char c = string[i];
-		std::cout << c << std::endl;
+
+	int condition = 8;
+	bool comparision = condition == 5;
+
+ 	if (comparision) {
+		Log("Ist True");
+		return 0;
+	}
+	else if(condition == 8){
+		Log("8");
+	}
+	else {
+		Log("Nicht true");
 	}
 
 	Log("New Worlds");

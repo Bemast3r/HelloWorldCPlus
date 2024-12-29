@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Header\Log.h"
+#include "Header\All.h"
 
 
 

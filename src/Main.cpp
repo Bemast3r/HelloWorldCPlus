@@ -1,10 +1,10 @@
 #include <iostream>
-#include "Header\Log.h"
+#include "Header\All.h"
 
 
 int main() 
 {
-	Ref();
+	classes();
 	std::cin.get();
 }  
  

@@ -5,3 +5,4 @@ int Multiply(int a, int b);
 void Increment(int* value);
 void Increment(int& value);
 void Ref();
+void classes();

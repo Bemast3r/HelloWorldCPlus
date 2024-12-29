@@ -30,9 +30,12 @@
     <ClCompile Include="src\referenz.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="src\Classes.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Header\Log.h">
+    <ClInclude Include="src\Header\All.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

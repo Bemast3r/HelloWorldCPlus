@@ -143,6 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Classes.cpp" />
     <ClCompile Include="src\Log.cpp" />
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\Math.cpp" />
@@ -150,7 +151,7 @@
     <ClCompile Include="src\referenz.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Header\Log.h" />
+    <ClInclude Include="src\Header\All.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

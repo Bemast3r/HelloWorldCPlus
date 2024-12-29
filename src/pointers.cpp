@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Header\All.h"
 
 static void pointer() {
 	void* ptr = NULL;

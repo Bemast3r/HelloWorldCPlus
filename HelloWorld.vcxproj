@@ -147,6 +147,7 @@
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\Math.cpp" />
     <ClCompile Include="src\pointers.cpp" />
+    <ClCompile Include="src\referenz.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Header\Log.h" />

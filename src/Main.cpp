@@ -4,7 +4,7 @@
 
 int main() 
 {
-
+	Ref();
 	std::cin.get();
 }  
  

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Log.h"
+#include "Header\Log.h"
 
 
 int Multiply(int a, int b) {

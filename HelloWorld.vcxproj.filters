@@ -24,9 +24,12 @@
     <ClCompile Include="src\Math.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="src\pointers.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Log.h">
+    <ClInclude Include="src\Header\Log.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

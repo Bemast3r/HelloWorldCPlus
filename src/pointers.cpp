@@ -1,4 +1,6 @@
-void pointer() {
+#include <iostream>
+
+static void pointer() {
 	void* ptr = NULL;
 	// void* ptr = NULL;
 	// void* ptr = 0;

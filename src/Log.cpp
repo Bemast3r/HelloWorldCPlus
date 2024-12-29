@@ -1,9 +1,6 @@
 #include <iostream>
-#include "Log.h"
+#include "Header\Log.h"
 
-/// Funktion = Definition
-/// Body = der Code drin
-/// <param name="message"></param>
 
 
 void initLog(const char* message) {
